@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\OneDrive - alumnos.frm.utn.edu.ar\\UTN\\Laboratorio 3\\Blockchain\\SistemaCOntable\\SistemaContable.csproj": {}
+  },
+  "projects": {
+    "G:\\OneDrive - alumnos.frm.utn.edu.ar\\UTN\\Laboratorio 3\\Blockchain\\SistemaCOntable\\SistemaContable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\OneDrive - alumnos.frm.utn.edu.ar\\UTN\\Laboratorio 3\\Blockchain\\SistemaCOntable\\SistemaContable.csproj",
+        "projectName": "SistemaContable",
+        "projectPath": "G:\\OneDrive - alumnos.frm.utn.edu.ar\\UTN\\Laboratorio 3\\Blockchain\\SistemaCOntable\\SistemaContable.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "G:\\OneDrive - alumnos.frm.utn.edu.ar\\UTN\\Laboratorio 3\\Blockchain\\SistemaCOntable\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
